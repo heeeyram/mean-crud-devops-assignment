@@ -14,7 +14,6 @@
 - [CI/CD Pipeline (Jenkins)](#cicd-pipeline-jenkins)
 - [Cloud Infrastructure](#cloud-infrastructure)
 - [How to Run Locally](#how-to-run-locally)
-- [Screenshots](#screenshots)
 
 ---
 
@@ -143,18 +142,7 @@ App available at → `http://localhost`
 
 ---
 
-## 📸 Screenshots
 
-| Description                         | Screenshot                                       |
-|-------------------------------------|--------------------------------------------------|
-| Application UI — Tutorial List      | ![App UI](./screenshots/app-ui.png)              |
-| Jenkins Pipeline — Successful Run   | ![Jenkins](./screenshots/jenkins-pipeline.png)   |
-| DockerHub — Pushed Images           | ![DockerHub](./screenshots/dockerhub-images.png) |
-| Docker Compose — Running Containers | ![Compose](./screenshots/docker-compose-up.png)  |
-| Nginx — Port 80 Serving             | ![Nginx](./screenshots/nginx-running.png)        |
-| EC2 Instance — Running              | ![EC2](./screenshots/ec2-instance.png)           |
-
----
 
 ## 👤 Author
 
