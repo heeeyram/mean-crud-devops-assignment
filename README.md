@@ -14,6 +14,7 @@
 - [CI/CD Pipeline (Jenkins)](#cicd-pipeline-jenkins)
 - [Cloud Infrastructure](#cloud-infrastructure)
 - [How to Run Locally](#how-to-run-locally)
+- [Screenshots](#screenshots)
 
 ---
 
@@ -138,11 +139,21 @@ cd mean-crud-devops-assignment
 docker compose up --build
 ```
 
-App available at → `http://localhost`
+App available at → `http://13.232.141.92`
 
 ---
 
+## 📸 Screenshots
 
+| Description                         | Screenshot                                       |
+|-------------------------------------|--------------------------------------------------|
+| Application UI — Tutorial List      | ![App UI](./screenshots/app-ui.png)              |
+| Jenkins Pipeline — Successful Run   | ![Jenkins](./screenshots/jenkins-pipeline.png)   |
+| DockerHub — Pushed Images           | ![DockerHub](./screenshots/dockerhub-images.png) |
+| Docker Compose — Running Containers | ![Compose](./screenshots/docker-compose-up.png)  |
+| EC2 Instance — Running              | ![EC2](./screenshots/ec2-instance.png)           |
+
+---
 
 ## 👤 Author
 
